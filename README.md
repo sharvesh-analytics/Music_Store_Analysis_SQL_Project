@@ -171,6 +171,4 @@ business-analysis
 # Author
  SHARVESH PANDEY
 
-Sharvesh Pandey
-
 Learning SQL, Data Analytics, Python, and Data Science.
